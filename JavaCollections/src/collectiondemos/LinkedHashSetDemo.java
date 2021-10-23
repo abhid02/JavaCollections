@@ -11,9 +11,11 @@ public class LinkedHashSetDemo {
 		//LinkedHashSet<Integer> lset=new LinkedHashSet<Integer>();
 		
 		//HashSet lset=new HashSet();
+		
 //HashSet:-Insertion order not preserved and duplicates not allowed
 		
 		LinkedHashSet lset=new LinkedHashSet();
+		
 //LinkedHashSet:- Insertion order preserved and duplicates not allowed
 
 		lset.add(100);
